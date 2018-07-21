@@ -4,3 +4,4 @@ To learn github.
 It is all command line and I am starting to learn it.
 Now lets move on.
 This is new line again from me and from another person.
+This is after creating the new branch bugFix.
